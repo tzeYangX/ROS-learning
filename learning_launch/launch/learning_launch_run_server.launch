@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="learning_communication" type="run_server" name="run_server" />
+</launch>
